@@ -13,3 +13,5 @@ cd html
 git remote add octohost git@ip.address.here:html.git
 git push octohost master
 ```
+
+Example site \(usually\) at [http://html.octohost.io](http://html.octohost.io)
