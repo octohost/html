@@ -1,7 +1,7 @@
 HTML
 ====
 
-A base nginx container for deploy static HTML with octohost.
+A base nginx container for uploading static HTML with octohost.
 
 Clone this repo and use static HTML to develop your website.
 
