@@ -1,4 +1,4 @@
-FROM octohost/nginx
+FROM octohost/nginx:1.7
 
 ADD . /srv/www/
 
